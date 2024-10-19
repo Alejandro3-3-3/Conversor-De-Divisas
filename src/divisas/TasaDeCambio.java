@@ -18,4 +18,5 @@ public class TasaDeCambio {
     public Map<String, Double> getConversionRates() {
         return conversion_rates;
     }
+
 }
